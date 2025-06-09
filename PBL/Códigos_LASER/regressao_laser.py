@@ -50,7 +50,7 @@ plt.figure(figsize=(8, 5))
 
 for i in range(2):
     X = np.array(D[i]).reshape(-1, 1)
-    y = np.array(Ym[i]) / 1e3
+    y = np.array(Ym[i]) / 1e3 # Conversão para mimlímetros
     
     # Regressão linear
     model = LinearRegression().fit(X, y)
@@ -85,15 +85,15 @@ for i in range(2):
     x = np.array(D[i])
     y = np.array(a[i])
 
-    # Regressão linear apenas para visualização
+    # Regressão linear apenas para visualização -> Essa regressão não possui "sentido físico real"
     model = LinearRegression().fit(x.reshape(-1, 1), y)
     y_pred = model.predict(x.reshape(-1, 1))
 
-    # Plotando pontos com regressão
+    # Plota os pontos com a regressão
     plt.scatter(x, y, color=cores[i], label=f'{labels[i]}')
     plt.plot(x, y_pred, linestyle='-', color=cores[i], label=f'Regressão Linear - {labels[i]}')
 
-# Estética
+# Configurações do gráfico
 plt.title("Diâmetro Estimado da Anti-fenda x Distância Do Anteparo")
 plt.xlabel("Distância Do Anteparo (m)")
 plt.ylabel("Diâmetro Estimado da Anti-fenda (µm)")
