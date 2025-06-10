@@ -40,20 +40,12 @@ color = ['blue', 'red']
 
 for i in range(len(D)):
     plt.plot(D[i], Ym[i], color=color[i], label=f'Amostra {i+1}')
-plt.title('Relação Distância Do Anteparo (D) & Comprimento Da Franja De Difração $(Y_m)$')
-plt.xlabel('Distância Do Anteparo (m)')
-plt.ylabel('Distância Centro-Franja (mm)')
+plt.title('Variação da distância entre o centro e franja ($Y_m$) em função da distância anteparo-anti-fenda ($D$)')
+plt.xlabel('Distância anteparo-anti-fenda $D$ (m)')
+plt.ylabel('Distância do centro à franja $Y_m$ (mm)')
 plt.grid(True)
 plt.legend()
 plt.show()
-
-# D x a
-"""plt.plot(D, a)
-plt.title('Relação Distância Do Anteparo (D) & Diâmetro Da Anti-fenda (a)')
-plt.xlabel('Distância Do Anteparo (m)')
-plt.ylabel('Diâmetro Da Anti-fenda (µm)')
-plt.grid(True)
-plt.show()"""
 
 # D x a - Scatter & STDEV
 color = ['blue', 'red']
@@ -67,8 +59,8 @@ for i in range(len(D)):
                 ecolor='black',            # Cor das barras de erro
                 capsize=3)             # Tamanho das extremidades das barras de erro)
 plt.grid(True)
-plt.title('Relação Distância Do Anteparo (D) & Diâmetro Da Anti-fenda (a)')
-plt.xlabel('Distância Do Anteparo (m)')
-plt.ylabel('Diâmetro Da Anti-fenda (µm)')
+plt.title('Variação do diâmetro da anti-fenda ($a$) em função da distância anteparo-anti-fenda ($D$)')
+plt.xlabel('Distância anteparo-anti-fenda $D$ (m)')
+plt.ylabel('Diâmetro da anti-fenda $a$ (μm)')
 plt.legend()
 plt.show()

@@ -70,9 +70,9 @@ for i in range(2):
     plt.plot(X, model.predict(X), linestyle='-', color=cores[i], label=f'Regressão Linear - {labels[i]}')
 
 # Configurações do gráfico
-plt.title("Regressão Linear De Cada Amostra")
-plt.xlabel("Distância Do Anteparo (m)")
-plt.ylabel("$Y_m$ (m)")
+plt.title('Variação de $Y_m$ em função da distância anteparo-anti-fenda $D$ com regressão linear')
+plt.xlabel('Distância anteparo-anti-fenda $D$ (m)')
+plt.ylabel('Distância entre o centro e a franja $Y_m$ (m)')
 plt.grid(True)
 plt.legend()
 plt.tight_layout()
@@ -94,9 +94,9 @@ for i in range(2):
     plt.plot(x, y_pred, linestyle='-', color=cores[i], label=f'Regressão Linear - {labels[i]}')
 
 # Configurações do gráfico
-plt.title("Diâmetro Estimado da Anti-fenda x Distância Do Anteparo")
-plt.xlabel("Distância Do Anteparo (m)")
-plt.ylabel("Diâmetro Estimado da Anti-fenda (µm)")
+plt.title('Variação do diâmetro estimado da anti-fenda $a$ em função da distância $D$')
+plt.xlabel('Distância anteparo-anti-fenda $D$ (m)')
+plt.ylabel('Diâmetro estimado da anti-fenda $a$ (μm)')
 plt.legend()
 plt.grid(True)
 plt.tight_layout()
