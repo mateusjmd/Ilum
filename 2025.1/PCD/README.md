@@ -9,13 +9,9 @@ Além disso, houve a introdução ao uso de Git e GitHub, bem como da utilizaç�
 # Tecnologias Utilizadas
 
 - Python
-
 - Jupyter Notebook / JupyterLab
-
 - NumPy, Pandas, Matplotlib, Streamlit
-
 - Git, GitHub
-
 - High Performance Computing (HPC)
 
 # Docentes
