@@ -19,7 +19,7 @@ Docentes:
 - [Valeria Spolon Marangoni](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4252367Y6)
 - [Juliana Helena Smetana Costa](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4770481P8)
 - [Leandro das Mercês Silva](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4465698A9)
-- [Alessandro de Souza Morato]()
+- Alessandro de Souza Morato
 
 Estagiários:
 
