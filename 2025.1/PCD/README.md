@@ -1,6 +1,6 @@
 # Práticas em Ciências de Dados - PCD
 
-Essa disciplina destinou-se à introdução de práticas de programação com a linguagem Python, abordando sua sintaxe, estruturas de dados e principais módulos utilizados (NumPy, Pandas, Matplotlib), visando aplicações no tratamento, manipulação e visualização de dados.
+Com carga horário de 60 horas, essa disciplina destinou-se à introdução de práticas de programação com a linguagem Python, abordando sua sintaxe, estruturas de dados e principais módulos utilizados (NumPy, Pandas, Matplotlib), visando aplicações no tratamento, manipulação e visualização de dados.
 
 As práticas desenvolveram-se com o uso de Jupyter Notebooks no ambiente do JupyterLab, predominando o paradigma funcional da programação.
 
