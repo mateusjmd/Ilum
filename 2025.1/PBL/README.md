@@ -16,13 +16,13 @@ As principais tecnologias empregadas foram:
 
 Docentes:
 
-- [Valeria Spolon Marangoni]()
-- [Juliana Helena Smetana Costa]()
-- [Leandro das Mercês Silva]()
-- [Alessandro De Souza Morato]()
+- [Valeria Spolon Marangoni](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4252367Y6)
+- [Juliana Helena Smetana Costa](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4770481P8)
+- [Leandro das Mercês Silva](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4465698A9)
+- [Alessandro de Souza Morato]()
 
 Estagiários:
 
-- [Evelyn Machado Cardoso]()
-- [José Marcos Dias Ferreira Júnior]()
-- [Julia Esperandio Barbosa]()
+- [Evelyn Machado Cardoso](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1139927A6)
+- [José Marcos Dias Ferreira Júnior](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2728679T1)
+- [Julia Esperandio Barbosa](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1794694H7)
