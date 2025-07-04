@@ -19,6 +19,6 @@ Além disso, houve a introdução ao uso de Git e GitHub, bem como da utilizaç�
 - High Performance Computing (HPC)
 
 # Docentes
-- [Daniel R. Cassar](http://lattes.cnpq.br/1717397276752482)
-- [Leandro N. Lemos](http://lattes.cnpq.br/8039429508021054)
-- [James M. Almeida](http://lattes.cnpq.br/4169321429650165)
+- [Daniel R. Cassar](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4262774J5)
+- [James M. Almeida](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4710448J1)
+- [Leandro N. Lemos](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4278041J7)
