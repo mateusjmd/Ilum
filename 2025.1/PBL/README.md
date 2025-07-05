@@ -24,5 +24,6 @@ Docentes:
 Estagiários:
 
 - [Evelyn Machado Cardoso](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1139927A6)
+- [Estevão Antoine Terzian Simonka](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K9686037P9)
 - [José Marcos Dias Ferreira Júnior](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2728679T1)
 - [Julia Esperandio Barbosa](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1794694H7)
