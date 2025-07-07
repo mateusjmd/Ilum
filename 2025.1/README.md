@@ -1,25 +1,28 @@
-# Semestre 2025.1 — Ilum/CNPEM
+# Semestre 2025.1
 
-Este diretório contém os projetos e códigos desenvolvidos nas disciplinas e atividades extracurriculares cursadas durante o semestre **2025.1** no curso de **Bacharelado em Ciência e Tecnologia** da [**Ilum – Escola de Ciência**](https://ilum.cnpem.br/), entre Março e Junho de 2025.
+Este diretório reúne os projetos, códigos e atividades desenvolvidas entre março e junho de 2025, durante o semestre **2025.1** do curso de **Bacharelado em Ciência e Tecnologia** da [**Ilum – Escola de Ciência**](https://ilum.cnpem.br/), vinculada ao [**CNPEM – Centro Nacional de Pesquisa em Energia e Materiais**](https://cnpem.br/).
 
-## Disciplinas
 
-### 🔹 Atividades de Férias - AF
-> Cursos/Estágios realizados internamente na Ilum em Álgebra Linear Computacional, Sistemas Complexos em Física e Ciência de Dados.
 
-📁 [`/AF`](./AF)
+## Disciplinas e Atividades
 
-### 🔹 Lógica Computacional - LC
-> Apresentação da Lógica Formal e Lógica de Predicados, com implementações em Algoritmos desenvolvidos em Python.
+### Atividades de Férias (AF)
 
-📁 [`/LC`](./LC)
+Cursos e estágios realizados internamente na Ilum, abordando: Álgebra Linear Computacional, Sistemas Complexos em Física e Ciência de Dados.  
+🔗 [`/AF`](./AF)
 
-### 🔹 Práticas Básicas de Laboratório - PBL
-> Atividades laboratoriais básicas de Ciências da Matéria e Ciências da Vida, integradas a elementos computacionais, como Ciências de Dados e Arduino.
 
-📁 [`/PBL`](./PBL)  
+### Lógica Computacional (LC)
 
-### 🔹 Práticas em Ciência de Dados - PCD
-> Introdução à linguagem Python com o JupyterLab, módulos principais, Git, GitHub e operação do HPC Heisenberg presente na Ilum.
+Estudo da lógica formal e de predicados, com aplicações computacionais desenvolvidas em Python.  
+🔗 [`/LC`](./LC)
 
-📁 [`/PCD`](./PCD)
+### Práticas Básicas de Laboratório (PBL)
+
+Atividades laboratoriais em Ciências da Matéria e Ciências da Vida, integradas a recursos computacionais como Arduino e análise de dados.  
+🔗 [`/PBL`](./PBL)  
+
+### Práticas em Ciência de Dados (PCD)
+
+Introdução ao ambiente Python com JupyterLab, controle de versões com Git/GitHub e uso básico do HPC *Heisenberg*.  
+🔗 [`/PCD`](./PCD)
