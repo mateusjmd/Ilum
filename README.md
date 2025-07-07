@@ -47,6 +47,6 @@ As principais tecnologias utilizadas são:
 ## Contato
 
 - **E-mail institucional:** [**mateus25032@ilum.cnpem.br**](mailto:mateus25032@ilum.cnpem.br)
-- **E-mail profissional:** [**mateu.jesusmd@gmail.com**](mailto:mateus.jesusmd@gmail.com)
+- **E-mail profissional:** [**mateus.jesusmd@gmail.com**](mailto:mateus.jesusmd@gmail.com)
 - [**LinkedIn**](https://www.linkedin.com/in/mateus-de-jesus-mendes/)
 - [**Currículo Lattes**](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1598982E2)
