@@ -2,7 +2,7 @@
 
 ## Introdução 
 
-Esse diretório destina-se ao versionamento dos códigos desenvolvidos durante a prática de laboratório cujo objetivo era verificar o comportamento termodinâmico dos gases atmosféricos em um sistema fechado submetido a aquecimento constante. A partir dessa experiência, utilizando um sensor BMP 280 em um sistema com Arduino, observa-se um processo termodinâmico irreversível, que respeita a [**Segunda Lei da Termodinâmica**](), demonstrando que o ar atmosférico não pode ser rigorosamente tratado como um Gás Ideal.
+Esse diretório destina-se ao versionamento dos códigos desenvolvidos durante a prática de laboratório cujo objetivo era verificar o comportamento termodinâmico dos gases atmosféricos em um sistema fechado submetido a aquecimento constante. A partir dessa experiência, utilizando um sensor BMP 280 em um sistema com Arduino, observa-se um processo termodinâmico irreversível, que respeita a [**Segunda Lei da Termodinâmica**7](), demonstrando que o ar atmosférico não pode ser rigorosamente tratado como um Gás Ideal.
 
 ### Termodinâmica dos Gases Ideais
 
@@ -24,3 +24,8 @@ As principais tecnologias utilizadas foram:
 `graficos.py`: Visualizações diversas dos dados obtidos, incluindo regressões lineares que adequam-se às previsões teóricas para o comportamento termodinâmico de gases ideais
 
 `medidas.txt`: Dados registrados pelo script `conexao_serial.py`
+
+## Execução
+
+`[Inserir a instruções para o uso dos códigos]`
+
