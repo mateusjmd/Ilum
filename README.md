@@ -14,9 +14,9 @@ Os diretórios estão organizados por semestre e disciplina, no seguinte formato
 - **Ciências de Dados/**
   - `modelo-SIR/`
 - **Práticas Básicas de Laboratório/**
-    - `AF`
-    - `LC`
-    - `[...]`
+    - `AF/`
+    - `LC/`
+    - `[...]/`
 
 **2025.2/**
 - (Em construção)
@@ -47,5 +47,6 @@ As principais tecnologias utilizadas são:
 ## Contato
 
 - **E-mail institucional:** [**mateus25032@ilum.cnpem.br**](mailto:mateus25032@ilum.cnpem.br)
-- **LinkedIn:** [**Mateus J. Mendes**](https://www.linkedin.com/in/mateus-de-jesus-mendes/)
-- **Currículo Lattes:** [**Mateus J. Mendes**](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1598982E2)
+- **E-mail profissional:** [**mateu.jesusmd@gmail.com**](mailto:mateus.jesusmd@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/mateus-de-jesus-mendes/)
+- [**Currículo Lattes**](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1598982E2)
