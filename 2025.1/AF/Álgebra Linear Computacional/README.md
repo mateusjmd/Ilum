@@ -30,12 +30,14 @@ As principais tecnologias empregadas são:
 - NumPy
 
 ## Resultados Obtidos
-[`Adicionar os resultados dos projetos`]
+Os principais resultados obtidos foram:
+- Algoritmos com majoritária parcela de sua lógica desenvolvidos em Python puro
+- Implementação computacional prática e direta de decomposições matriciais
+- Desenvolvimento da capacidade de abstração e raciocínio lógico-computacional
 
 ## Como utilizar
 
-[`Inserir instruções de uso detalhadas`]
-
+Para utilizar os *scripts* é necessário realizar o download e executá-lo em um ambiente apropriado ao Python. Cada *script* contêm especificidades para a passagem de variáveis durante a execução, as quais estão explicitadas nos comentários de código.
 ## Referências
 
 WASQUES, Vinícius Francisco. Álgebra Linear Computacional. Campinas: Ilum - Escola de Ciência, 2025. Notas de aula.
