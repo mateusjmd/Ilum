@@ -1,1 +1,0 @@
-# Laboratório Avançado - I: Resultados, Tratamento e Visualização de Dados
