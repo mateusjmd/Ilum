@@ -11,7 +11,7 @@
 #SBATCH --output=logs/saida_%j.out
 #SBATCH --error=logs/erro_%j.err
 #SBATCH --mail-type=BEGIN,END,FAIL
-#SBATCH --mail-user=usuarioXXX@heisenberg.cnpem.br
+#SBATCH --mail-user=usuarioXXX@ilum.cnpem.br
 
 # ---- Preparacao do ambiente ----
 mkdir -p logs
