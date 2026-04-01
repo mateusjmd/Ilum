@@ -8,8 +8,7 @@
 #SBATCH --mem=16G
 #SBATCH --nodelist=work1
 #SBATCH --time=DD-HH:MM:SS
-#SBATCH --output=logs/saida_%j.out
-#SBATCH --error=logs/erro_%j.err
+#SBATCH --output=logs/slurm-%j.out
 #SBATCH --mail-type=BEGIN,END,FAIL
 #SBATCH --mail-user=usuarioXXX@ilum.cnpem.br
 
