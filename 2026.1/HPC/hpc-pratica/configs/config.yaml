@@ -1,0 +1,51 @@
+# =============================================================================
+# Parâmetros da Simulação de Difusão por Caminhada Aleatória
+# =============================================================================
+# Edite este arquivo para personalizar a simulação antes de submeter o job.
+# Todos os parâmetros são documentados abaixo.
+
+# --- Parâmetros Físicos da Simulação ---
+
+# Número de partículas simuladas simultaneamente.
+# Valores maiores = mais estatística, mais tempo de execução.
+# Recomendação: comece com 10_000 e aumente progressivamente.
+n_particles: 50000
+
+# Número de passos de tempo (comprimento das trajetórias).
+# Cada passo representa uma unidade de tempo discreta.
+n_steps: 300
+
+# Comprimento de cada passo (em unidades arbitrárias).
+# Fisicamente: proporcional a sqrt(2*D*dt), onde D é o coeficiente de difusão.
+step_size: 1.0
+
+# Semente aleatória para reprodutibilidade.
+# Use o mesmo valor para obter resultados idênticos entre execuções.
+# Defina como null para aleatoriedade total.
+seed: 42
+
+# --- Parâmetros de Benchmark ---
+# Lista de tamanhos de N usados para comparar CPU vs. GPU.
+# Modifique com cuidado: valores muito grandes podem causar OOM na GPU.
+benchmark_sizes:
+  - 1000
+  - 5000
+  - 10000
+  - 50000
+  - 100000
+  - 500000
+
+# Número de repetições para cada tamanho no benchmark (para média de tempo).
+benchmark_repeats: 3
+
+# --- Parâmetros de Saída ---
+
+# Número de trajetórias individuais a plotar (para visualização).
+# Não afeta a física — apenas a legibilidade do gráfico.
+n_trajectories_to_plot: 50
+
+# Diretório de saída para figuras e dados.
+output_dir: results
+
+# Diretório de saída para logs do Python.
+log_dir: logs
