@@ -1,0 +1,21 @@
+name: hpc-pratica
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - matplotlib>=3.7
+  - scipy>=1.11
+  - pyyaml>=6.0
+  - tqdm>=4.65
+  - jupyter
+  - ipykernel
+  - ipywidgets
+  - pip
+  - pip:
+      # PyTorch com suporte a CUDA 12.1 (compatível com o cluster Heisenberg)
+      # Para CPU apenas (máquina local sem GPU), substitua por:
+      # - torch
+      - torch --index-url https://download.pytorch.org/whl/cu121
