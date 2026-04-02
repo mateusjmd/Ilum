@@ -88,7 +88,7 @@ ssh usuarioXXX@heisenberg.cnpem.br
 
 ```bash
 cd ~/work
-git clone https://github.com/SEU_USUARIO/heisenberg-pratica.git
+git clone https://github.com/mateusjmd/Ilum/tree/main/2026.1/HPC/hpc-pratica
 cd heisenberg-pratica
 ```
 
